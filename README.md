@@ -15,6 +15,7 @@ Array [7] = "actually   works."
 
 
 **In case any of the argument is missing, following output is expected:**
+
 `Arguments Missing: Usage: python <file_name>.py <first_argument_paragraph> <second_argument_page_width>`
 
 
