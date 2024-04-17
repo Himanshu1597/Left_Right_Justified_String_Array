@@ -6,8 +6,7 @@ This section explains how to execute the `gspann_code.py` script.
 
 **Steps to Execute the code:**
 
-1. python gspann_code.py <paragraph_content> <page_width>
-eg: python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20
+1. python gspann_code.py <paragraph_content> <page_width> \n eg: python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20
 
 Expected output: 
 Array [1] = "This  is a sample"
