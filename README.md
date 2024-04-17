@@ -2,7 +2,9 @@
 
 `python gspann_code.py <paragraph_content> <page_width>`
 
-**Example:** `python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20`
+**Example:** 
+
+`python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20`
 
 **Expected output:** 
 <pre>
