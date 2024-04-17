@@ -20,7 +20,7 @@ Array [7] = "actually   works."
 
 **In case any of the argument is missing, following output is expected:**
 
-`*Arguments Missing: Usage:* python <file_name>.py <first_argument_paragraph> <second_argument_page_width>`
+`**Arguments Missing: Usage:** python <file_name>.py <first_argument_paragraph> <second_argument_page_width>`
 
 
 **If any of the word in paragraph exceeds the page_width, code is not supposed to break the word, so below output is expected:**
