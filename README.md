@@ -1,6 +1,8 @@
 **Steps to execute the code:**
-python gspann_code.py <paragraph_content> <page_width>
-eg: python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20
+
+`python gspann_code.py <paragraph_content> <page_width>`
+
+**Example:** `python gspann_code.py "This is a sample text but a complicated problem to be solved, so we are adding more text to see that it actually works." 20`
 
 **Expected output:** 
 <pre>
@@ -20,5 +22,6 @@ Array [7] = "actually   works."
 
 
 **If any of the word in paragraph exceeds the page_width, code is not supposed to break the word, so below output is expected:**
-Word length is greater than page_width. Erroneous input.
+
+`Word length is greater than page_width. Erroneous input.`
 
