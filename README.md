@@ -1,4 +1,5 @@
 **Steps to execute the code:**
+`Use the below syntax to execute the code.`
 
 `python gspann_code.py <paragraph_content> <page_width>`
 
